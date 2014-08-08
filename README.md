@@ -25,6 +25,7 @@ If that is the case send me a mail and I will send you the documents.
 
 https://www.digitalgov.gov/2013/11/21/mobile-product-compatibility-and-functional-testing-101/
 
+
 This document gives some terms and insights into testing mobile applications.
 
 === Test Cycle Questionnaire ===
@@ -46,6 +47,8 @@ This is the test case that you are to download, complete and email back to us.
 === Using Github ===
 
 https://drive.google.com/a/gsa.gov/?tab=co#folders/0B2idn27Mp7VTZGZQU2pOWVBWNnc
+
+https://drive.google.com/?urp=http://us.yhs4.search.yahoo.com/yhs/search?hspart%3D&authuser=0&urp=http://us.yhs4.search.yahoo.com/yhs/search?hspart%3D#folders/0B2idn27Mp7VTcXBmanc5WGUxNXc 
 
 (On the Google Drive)
 
