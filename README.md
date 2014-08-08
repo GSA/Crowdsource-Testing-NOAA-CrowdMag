@@ -1,4 +1,4 @@
-Crowdsource-Testing-NOAA-CrowdMag-
+Crowdsource-Testing-NOAA-CrowdMag
 ==================================
 
 Issues reported for the for the NOAA-CrowdMag Android application compatibility test-cycle 8/2014.
