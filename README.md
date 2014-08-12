@@ -30,17 +30,13 @@ This document gives some terms and insights into testing mobile applications.
 
 === Test Cycle Questionnaire ===
 
-(On the Google Drive)
-
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXXx
+https://drive.google.com/?ddrp=1#folders/0B2idn27Mp7VTOUNqYlAzZjlYMTg (On the Google Drive)
 
 This document contains all of the applications specifics required to complete this test cycle.
 
 === NOAA-Crowd-Mag Test Case 8/2014 ===
 
-XXXXXXXXXXXXXXXXXXXXXXXXXXXXX
-
-(On the Google Drive)
+https://drive.google.com/?ddrp=1#folders/0B2idn27Mp7VTOUNqYlAzZjlYMTg (On the Google Drive)
 
 This is the test case that you are to download, complete and email back to us.
 
