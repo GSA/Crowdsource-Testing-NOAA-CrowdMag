@@ -9,7 +9,7 @@ Welcome to the Test Cycle!
 
 Agency: NOAA’s National Geophysical Data Center (NGDC)
 
-http://wwwdev.ngdc.noaa.gov/geomag/crowdmag.shtml
+http://www.ngdc.noaa.gov/geomag/crowdmag.shtml
 
 Application Name: NOAA-CrowdMag Android application
 
