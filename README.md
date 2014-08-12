@@ -42,10 +42,4 @@ This is the test case that you are to download, complete and email back to us.
 
 === Using Github ===
 
-https://drive.google.com/a/gsa.gov/?tab=co#folders/0B2idn27Mp7VTZGZQU2pOWVBWNnc
-
-https://drive.google.com/?urp=http://us.yhs4.search.yahoo.com/yhs/search?hspart%3D&authuser=0&urp=http://us.yhs4.search.yahoo.com/yhs/search?hspart%3D#folders/0B2idn27Mp7VTcXBmanc5WGUxNXc 
-
-(On the Google Drive)
-
-
+https://drive.google.com/?ddrp=1#folders/0B2idn27Mp7VTOUNqYlAzZjlYMTg (On the Google Drive)
